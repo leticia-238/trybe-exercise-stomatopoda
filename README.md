@@ -2,4 +2,4 @@
 
 ![img](./view.png)
 
-- Init date: November, 2021
+- Data de início: Novembro de 2021
